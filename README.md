@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+그냥개인공부용,,
+
+
 <!--
 **silverstone-1004/silverstone-1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
